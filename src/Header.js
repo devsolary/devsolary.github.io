@@ -6,7 +6,7 @@ function Header() {
   return (
     <header>
       <div className='HeaderWrapper'>
-        <h3> Dev Solary</h3>
+        <h3>Dev Solary</h3>
         <ul>
           <li><Link to="/" className='navLink'>HOME</Link></li>
           <li><Link to="/Skills" className='navLink'>SKILLS</Link></li>
