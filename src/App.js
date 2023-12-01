@@ -6,11 +6,18 @@ import Skills from "./Skills.js";
 import Portfolio from "./Portfolio.js";
 import Services from "./Services.js"
 import About from "./About.js"
+import { Helmet } from "react-helmet";
 
 function App() {
   return (
     <Router>
     <div className="App">
+      <Helmet>
+                <meta charSet="utf-8" />
+                <title>Dev Solary</title>
+                <link rel="canonical" href="http://mysite.com/example" />
+                <meta name="description" content="Nested component" />
+      </Helmet>
       <Header />
       <div className="content">
        <Routes>
