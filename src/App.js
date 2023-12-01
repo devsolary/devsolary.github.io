@@ -10,7 +10,7 @@ import { Helmet } from "react-helmet";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/devsolary.github.io">
     <div className="App">
       <Helmet>
                 <meta charSet="utf-8" />
