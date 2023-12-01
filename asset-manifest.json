@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cdfea960.css",
+    "main.js": "/static/js/main.d54e000e.js",
+    "static/js/787.69f9a19c.chunk.js": "/static/js/787.69f9a19c.chunk.js",
+    "static/media/NetflixClone.png": "/static/media/NetflixClone.a1bb817a9c802e1b66b7.png",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/IMG_0921.JPG": "/static/media/IMG_0921.4bc3fccb9cb7a8ec075a.JPG",
+    "static/media/SolaryCineTune.png": "/static/media/SolaryCineTune.76a3ce029d0448b8e92c.png",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/index.html",
+    "main.cdfea960.css.map": "/static/css/main.cdfea960.css.map",
+    "main.d54e000e.js.map": "/static/js/main.d54e000e.js.map",
+    "787.69f9a19c.chunk.js.map": "/static/js/787.69f9a19c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdfea960.css",
+    "static/js/main.d54e000e.js"
+  ]
+}
