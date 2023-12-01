@@ -16,7 +16,7 @@ function Portfolio() {
           </a>
         </div>
         <div className="project">
-          <a href="https://devsolary.github.io/solaryCineTune/"  target='_blank' rel='noopener noreferrer'>
+          <a href="https://devsolary.github.io/netflix-clone/"  target='_blank' rel='noopener noreferrer'>
             <img src={netflixClone} alt="" />
             <p>Netflix Clone app</p>
           </a>
