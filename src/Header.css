@@ -17,6 +17,10 @@ header {
     margin-top: 15px;
 }
 
+button {
+    display: none;
+}
+
 .HeaderWrapper ul {
     list-style-type: none;
     display: flex;
