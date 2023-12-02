@@ -17,7 +17,7 @@ function About() {
         <span  style={infoStyle}>Location :</span><span>&#160; &#160;Lagos, Nigeria</span> <br />
         <span  style={infoStyle}>Email :</span><span>&#160; &#160; &#160; &#160; devsolary@gmail.com</span><br />
         <span  style={infoStyle}>Phone no. :</span><span>+234 8152145092</span><br />
-        <span  style={infoStyle}>Language :</span><span>English</span>
+        <span  style={infoStyle}>Language :</span><span>&#160; English</span>
       </section>
     </div>
   )

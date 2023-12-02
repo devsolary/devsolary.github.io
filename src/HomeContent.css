@@ -53,3 +53,23 @@
     text-decoration: none;
     color: white;
 }
+
+@media (max-width : 767px) {
+    .HomeContent {
+        margin: 30px 10px 0 10px ;
+    }
+
+    .topContent div h2{
+        font-size: 20px;
+    }
+
+    .topContent div span {
+        font-size: 15px;
+    }
+
+    .topContent img {
+        height: 20vh;
+        margin-left: auto;
+        margin-top: 30px;
+    }
+}
